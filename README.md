@@ -56,9 +56,3 @@ This data set includes:
 - **FS:** Fouls Suffered
 - **YC:** Yellow Cards
 - **RC:** Red Cards
-
-
-- Define a simple approach first. You never know how the data can betray you. :wink:
-- Document your work.
-- Learn about the problem and what research has been done before you.
-- Before making a graph, think about what you want to represent.
